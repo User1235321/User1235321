@@ -1,5 +1,7 @@
 ## Языки программирования:<br>
-<img src="https://skillicons.dev/icons?i=cpp,VHDL,Assembly" /><br>
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://img.shields.io/badge/requests-2B5B84?style=for-the-badge&logoColor=white" alt="VHDL"/>
+<img src="https://img.shields.io/badge/requests-2B5B84?style=for-the-badge&logoColor=white" alt="Assebmler"/><br>
 ## Среды разработки и инструменты:<br>
 <img src="https://skillicons.dev/icons?i=vim,git,github,docker,kubernetes" /><br><br>
 
