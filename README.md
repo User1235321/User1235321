@@ -3,7 +3,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://cdn.cybrhome.com/media/topic/live/icon/topic_icon_assembly-language_8923f1.png" width="50" height="50" /> <img src="https://static.thenounproject.com/png/926776-200.png" width="50" height="50" /><br>
 
   <h1>Среды разработки и инструменты:</h1><br>
-  <img src="https://skillicons.dev/icons?i=vim,git,github,docker,kubernetes,bash,arduino" /> <img src="https://cdn.worldvectorlogo.com/logos/quartus.svg" width="50" height="50" /><img src="https://ecs-network.serv.pacific.edu/ecpe-170/valgrind-logo/image_view_fullscreen" width="50" height="50" /><br><br>
+  <img src="https://skillicons.dev/icons?i=vim,git,github,docker,kubernetes,bash,arduino" /> <img src="https://cdn.worldvectorlogo.com/logos/quartus.svg" width="50" height="50" /><img src="https://ecs-network.serv.pacific.edu/ecpe-170/valgrind-logo/image" width="50" height="50" /><br><br>
 
   <h1>Платформы и ОС:</h1><br>
   <img src="https://skillicons.dev/icons?i=debian,ubuntu" />
