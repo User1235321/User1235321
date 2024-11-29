@@ -1,6 +1,8 @@
 ## Языки программирования:<br>
 <img src="https://skillicons.dev/icons?i=cpp" />
-![topic_icon_assembly-language_8923f1](https://github.com/user-attachments/assets/0adbccb4-12fc-46d6-ae8b-5e28c373402d)<br>
+<img src="https://cdn.cybrhome.com/media/topic/live/icon/topic_icon_assembly-language_8923f1.png" />
+<img src="https://static.thenounproject.com/png/926776-200.png" /><br>
+
 ## Среды разработки и инструменты:<br>
 <img src="https://skillicons.dev/icons?i=vim,git,github,docker,kubernetes" /><br><br>
 
