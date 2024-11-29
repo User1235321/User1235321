@@ -1,5 +1,5 @@
 ## Языки программирования:<br>
-<img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://cdn.cybrhome.com/media/topic/live/icon/topic_icon_assembly-language_8923f1.png" /> <img src="https://static.thenounproject.com/png/926776-200.png" /><br>
+<img src="https://skillicons.dev/icons?i=cpp" /> <img src="https://cdn.cybrhome.com/media/topic/live/icon/topic_icon_assembly-language_8923f1.png" width="50" height="50" /> <img src="https://static.thenounproject.com/png/926776-200.png" width="50" height="50" /><br>
 
 ## Среды разработки и инструменты:<br>
 <img src="https://skillicons.dev/icons?i=vim,git,github,docker,kubernetes" /><br><br>
