@@ -11,3 +11,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=User1235321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=User1235321)](https://git.io/streak-stats)<br>
 </div>
+<h2> А это Костян:</h2>
+░░░░░░░░░░░░▄▐<br>
+░░░░░░▄▄▄░░▄██▄<br>
+░░░░░▐▀█▀▌░░░░▀█▄<br>
+░░░░░▐█▄█▌░░░░░░▀█▄<br>
+░░░░░░▀▄▀░░░▄▄▄▄▄▀▀<br>
+░░░░▄▄▄██▀▀▀▀<br>
+░░░█▀▄▄▄█░▀▀<br>
+░░░▌░▄▄▄▐▌▀▀▀<br>
+▄░▐░░░▄▄░█░▀▀<br>
+▀█▌░░░▄░▀█▀░▀<br>
+░░░░░░░▄▄▐▌▄▄<br>
+░░░░░░░▀███▀█░▄<br>
+░░░░░░▐▌▀▄▀▄▀▐▄<br>
+░░░░░░▐▀░░░░░░▐▌<br>
+░░░░░░█░░░░░░░░█<br>
+░░░░░▐▌░░░░░░░░░█<br>
+░░░░░█░░░░░░░░░░▐▌<br><br>
