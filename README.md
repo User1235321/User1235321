@@ -1,5 +1,5 @@
 ## Языки программирования:<br>
-<img src="https://skillicons.dev/icons?i=cpp,vhd,assembler" /><br>
+<img src="https://skillicons.dev/icons?i=cpp,vhd,assembly" /><br>
 ## Среды разработки и инструменты:<br>
 <img src="https://skillicons.dev/icons?i=vim,git,github,docker,kubernetes,Makefile,MaxPlusII,Quartus2" /><br><br>
 
