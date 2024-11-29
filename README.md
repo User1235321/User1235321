@@ -1,7 +1,7 @@
 ## Языки программирования:<br>
-<img src="https://skillicons.dev/icons?i=cpp, assembler, vhdl" /><br>
+<img src="https://skillicons.dev/icons?i=cpp, vhd, assembler" /><br>
 ## Среды разработки и инструменты:<br>
-<img src="https://skillicons.dev/icons?i=vim, Makefile, MaxPlusII, Quartus2" /><br><br>
+<img src="https://skillicons.dev/icons?i=vim, git,github,docker,kubernetes, Makefile, MaxPlusII, Quartus2" /><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=User1235321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=User1235321)](https://github.com/anuraghazra/github-readme-stats)<br>
