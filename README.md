@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Языки программирования:</h1><br>
-  <img src="https://skillicons.dev/icons?i=cpp" /><img src="https://cdn.cybrhome.com/media/topic/live/icon/topic_icon_assembly-language_8923f1.png" width="50" height="50" /><img src="https://static.thenounproject.com/png/926776-200.png" width="50" height="50" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp" /><img src="https://img.icons8.com/color/1200/assembly.jpg" width="50" height="50" /><img src="https://static.thenounproject.com/png/926776-200.png" width="50" height="50" /><br>
 
   <h1>Среды разработки и инструменты:</h1><br>
   <img src="https://skillicons.dev/icons?i=vim,git,github,docker,kubernetes,bash,arduino" /><img src="https://cdn.worldvectorlogo.com/logos/quartus.svg" width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/en/f/f9/Valgrind_logo.png" width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/GNU_Compiler_Collection_logo.png" width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/2560px-Netwide_Assembler.svg.png" width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Gdb_icon.png" width="50" height="50" /><br>
