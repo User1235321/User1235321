@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=vim,git,github,docker,kubernetes,bash,arduino" /><img src="https://cdn.worldvectorlogo.com/logos/quartus.svg" width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/en/f/f9/Valgrind_logo.png" width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/GNU_Compiler_Collection_logo.png" width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Gdb_icon.png" width="50" height="50" /><img src="https://skillicons.dev/icons?i=visualstudio,vscode,obsidian" /><br>
 
   <h1>Платформы и ОС:</h1><br>
-  <img src="https://skillicons.dev/icons?i=debian,ubuntu" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RISC-V-logo-square.svg/2560px-RISC-V-logo-square.svg.png" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=debian,ubuntu" />
   <br>
   <h1></h1><br>
   
